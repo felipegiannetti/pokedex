@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   # Material 3 como pacote do pub.dev (mesmo conteúdo de package:flutter/material.dart)
   material_ui: ^1.0.0
-  # TODO (Etapa 3): adicionar o pacote http  ->  flutter pub add http
+  http: ^1.2.0
 
 dev_dependencies:
   flutter_test:
